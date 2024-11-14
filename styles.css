@@ -1,0 +1,73 @@
+body{
+    background-color: #34b430;
+
+}
+header{
+    background-color: #b4a030;
+    justify-content: center;
+    display:flow;
+}
+#DIV1{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    text-align: center;
+    background-color: #b4a030;
+}
+
+
+#botao1{
+    background-color: #186d39; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#botao1:hover{
+    background-color: #23f172;
+}
+
+#botao2{
+    background-color: #186d39;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#botao2:hover{
+    background-color: #23f172;
+}
+
+#botao3{
+    background-color: #186d39;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#botao3:hover{
+    background-color: #23f172;
+}
+
+#Banner{
+    img {
+        max-width: 100%;
+        height: 40%;
+      }
+}
+
+#form{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}

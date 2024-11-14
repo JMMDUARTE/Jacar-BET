@@ -1,0 +1,47 @@
+body{
+    background-color: #34b430;
+
+}
+#DIV1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    text-align: center;
+    background-color: #b4a030;
+}
+#video{
+    width: 750px;
+    margin:0 auto;
+    display: block;
+}
+
+#video2{
+    width: 750px;
+    margin:0 auto;
+    display: block;
+}
+
+#video3{
+    width: 750px;
+    margin:0 auto;
+    display: block;
+}
+
+#video4{
+    width: 750px;
+    margin:0 auto;
+    display: block;
+}
+
+#botao1{
+    background-color: #186d39;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#botao1:hover{
+    background-color: #23f172;
+}
